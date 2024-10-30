@@ -9,7 +9,7 @@ This repository contains the code and data used for the study:
 To run the code, you need the following dependencies:
 
 - Python 3.x
-- PyTorch
+- Keras
 - Pandas
 - NumPy
 - Matplotlib
