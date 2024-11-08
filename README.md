@@ -16,3 +16,8 @@ To run the code, you need the following dependencies:
 - Scikit-learn
 - Seaborn
 
+## Workflow
+
+- The notebook **NN_generator** contains scripts to generate N neural networks to build the ensembles described in the paper.
+- Once the ensemble is generated, the notebook **NN_ID_calculator** can be used to evaluate the Intrinsic Dimension of the produced ensemble.
+- The notebook **Plots** contains scripts to generate the plots included in the paper.
