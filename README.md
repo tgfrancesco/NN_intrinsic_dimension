@@ -16,6 +16,9 @@ To run the code, you need the following dependencies:
 - Scikit-learn
 - Seaborn
 
+To use MLE estimator -> https://github.com/stat-ml/GeoMLE.git
+https://www.mathworks.com/matlabcentral/fileexchange/40112-intrinsic-dimensionality-estimation-techniques contains the implementation of MiND_ML, MiND_KL, DANCo, DANCoFit.
+
 ## Workflow
 
 - The notebook **NN_generator** contains scripts to generate N neural networks to build the ensembles described in the paper.
